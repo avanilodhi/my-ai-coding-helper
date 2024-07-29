@@ -22,5 +22,5 @@ AI Coding Helper is a web-based tool that uses OpenAI's API to assist developers
 First, clone this repository to your local machine:
 
 ```bash
-git https://github.com/avanilodhi/my-ai-coding-helper.git
+git clone https://github.com/avanilodhi/my-ai-coding-helper.git
 cd my-ai-coding-helper
